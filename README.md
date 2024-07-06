@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center" dir="auto">
+  <samp>
+    <a href="https://dulan.me/" rel="nofollow" target="_blank">me</a>  . <a href="https://dulan.me/work" rel="nofollow" target="_blank">projects</a> . <a href="https://dulan.me/blog" rel="nofollow" target="_blank">blog</a>
+  </samp>
+</p>
 
 <!--
 **DulanHewage/DulanHewage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
