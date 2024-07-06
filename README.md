@@ -1,6 +1,6 @@
 <p align="center" dir="auto">
   <samp>
-    <a href="https://dulan.me/" rel="nofollow" target="_blank">me</a>  . <a href="https://dulan.me/work" rel="nofollow" target="_blank">projects</a> . <a href="https://dulan.me/blog" rel="nofollow" target="_blank">blog</a>
+    <a href="https://dulan.me/" rel="nofollow">me</a>  . <a href="https://dulan.me/work" rel="nofollow">projects</a> . <a href="https://dulan.me/blog" rel="nofollow" >blog</a>
   </samp>
 </p>
 
